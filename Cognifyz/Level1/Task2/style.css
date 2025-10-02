@@ -1,0 +1,17 @@
+button{
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border:1px;
+    border-radius: 12px ;
+    font-size: 20px;
+    background:black;
+    color:white;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    width: auto;
+}
