@@ -1,0 +1,10 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .grid-item {
+    color: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+  }
